@@ -1,0 +1,14 @@
+{
+    "port":{
+        "http":":8080"
+    },
+    "redis":{
+        "uri":"xxx.xxx.xxx.xxx:6379",
+        "password":"xxxxxx"
+    },
+    "mysql":{
+        "uri":"root:test@xxx.xxx.xxx.xxx"
+    },
+    "tcp_mode" : "tcp4",
+    "tcp_max_connection":700
+}
